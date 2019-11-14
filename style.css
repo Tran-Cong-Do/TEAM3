@@ -22,3 +22,10 @@
 .btn{
 	border-radius: 50px 100px 0px 50px;
 }
+.container-fluid .card img {
+	height: 300px;
+}
+.btn{
+	border-radius: 50px 100px 0px 50px;
+	margin-left: 100px;
+}

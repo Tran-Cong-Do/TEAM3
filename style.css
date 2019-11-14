@@ -1,0 +1,18 @@
+.container-fluid .row{
+	background: white;
+}
+.container-fluid .row #Menu-item{
+	margin-left: 10%;
+}
+.container-fluid .row #Menu-item ul li{
+	margin-left: 4rem;
+	width: 100px;
+	text-align: center;
+}
+.container-fluid .row #Menu-item ul li a{
+	color: white;
+}
+.container-fluid .row #Menu-item ul li:hover{
+	background: orange;
+	border-radius: 10px;
+}

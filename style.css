@@ -16,3 +16,9 @@
 	background: orange;
 	border-radius: 10px;
 }
+.img-thumbnail{
+	border: 2px solid yellow!important;
+}
+.btn{
+	border-radius: 50px 100px 0px 50px;
+}
